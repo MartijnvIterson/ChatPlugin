@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.thejoeyl.AppTest" time="0.057" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\mcprogrammeren\Mcplugins\ChatManager\target\test-classes;D:\mcprogrammeren\Mcplugins\ChatManager\target\classes;C:\Users\joeyl\.m2\repository\org\spigotmc\spigot-api\1.12.2-R0.1-SNAPSHOT\spigot-api-1.12.2-R0.1-SNAPSHOT.jar;C:\Users\joeyl\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\joeyl\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\joeyl\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\joeyl\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\joeyl\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\joeyl\.m2\repository\net\md-5\bungeecord-chat\1.12-SNAPSHOT\bungeecord-chat-1.12-SNAPSHOT.jar;C:\Users\joeyl\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\joeyl\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="NL"/>
+    <property name="sun.boot.library.path" value="D:\Programmeren\JDK\bin"/>
+    <property name="sun.java.command" value="C:\Users\joeyl\AppData\Local\Temp\surefire3317530163022715464\surefirebooter10148669174285958752.jar C:\Users\joeyl\AppData\Local\Temp\surefire3317530163022715464 2018-07-18T16-19-03_385-jvmRun1 surefire14561164171831376695tmp surefire_010912095877142466683tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\mcprogrammeren\Mcplugins\ChatManager\target\test-classes;D:\mcprogrammeren\Mcplugins\ChatManager\target\classes;C:\Users\joeyl\.m2\repository\org\spigotmc\spigot-api\1.12.2-R0.1-SNAPSHOT\spigot-api-1.12.2-R0.1-SNAPSHOT.jar;C:\Users\joeyl\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\joeyl\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\joeyl\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\joeyl\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\joeyl\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\joeyl\.m2\repository\net\md-5\bungeecord-chat\1.12-SNAPSHOT\bungeecord-chat-1.12-SNAPSHOT.jar;C:\Users\joeyl\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\joeyl\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\joeyl"/>
+    <property name="user.language" value="nl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Programmeren\JDK"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\mcprogrammeren\Mcplugins\ChatManager"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\joeyl\AppData\Local\Temp\surefire3317530163022715464\surefirebooter10148669174285958752.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="9.0.4+11"/>
+    <property name="user.name" value="joeyl"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\joeyl\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\joeyl\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.1.4"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="user.dir" value="D:\mcprogrammeren\Mcplugins\ChatManager"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Programmeren\JDK\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\joeyl\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="9.0.4+11"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="53.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.thejoeyl.AppTest" time="0.003"/>
+</testsuite>

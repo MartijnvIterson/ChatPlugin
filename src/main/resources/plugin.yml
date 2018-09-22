@@ -1,0 +1,36 @@
+name: ChatManager
+version: 1.0
+author: thejoeyl
+main: com.thejoeyl.ChatManager
+description: Shut the fuck up
+commands:
+  warnings:
+    description: Get the amount of warnings
+    usage: /warning <player>
+  warn:
+    description: Give a player a warning
+    usage: /warn <player>
+  warningsRemove:
+    description: Removes a players warning
+    usage: /warningsremove <player>
+  warningsClear:
+    description: Clears a players history
+    usage: /warningsclear <player>
+  sthelp:
+    description: Sends online staff a message
+    usage: /sthelp <message>
+  hetisstil:
+    description: says aan de overkant
+    usage: /hetisstil
+  chatcolorblue:
+    description: changes chat color to blue
+    usage: /chatcolorblue
+  chatcolorreset:
+    description: chatcolor back to white
+    usage: /chatcolorreset
+  chatcolorred:
+    description: changes chat color to red
+    usage: /chatcolorred
+  chatcoloryellow:
+    description: changes chat color to yellow
+    usage: /chatcoloryellow
