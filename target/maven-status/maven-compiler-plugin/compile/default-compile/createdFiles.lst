@@ -1,11 +1,10 @@
+com\thejoeyl\Warnings.class
 com\thejoeyl\ChatManager.class
 com\thejoeyl\ChatColorCheck.class
 com\thejoeyl\Memes.class
 com\thejoeyl\WarningsRemove.class
+com\thejoeyl\StaffHelp.class
 com\thejoeyl\ColorChat.class
 com\thejoeyl\Warn.class
 com\thejoeyl\ListenerToStaff.class
-com\thejoeyl\Warnings.class
-com\thejoeyl\ChatRadius.class
-com\thejoeyl\StaffHelp.class
 com\thejoeyl\WarningsClear.class
