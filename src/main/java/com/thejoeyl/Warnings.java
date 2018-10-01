@@ -9,10 +9,10 @@ import org.bukkit.entity.Player;
 
 public class Warnings implements CommandExecutor {
 
-    public void valueCheck(Player player) {
-        if(Warn.warns.get(player) == null) {
+    public void valueCheck(Player p) {
+        if(Warn.warns.get(p) == null) {
             int count = 0;
-            Warn.warns.put(player, count);
+            Warn.warns.put(p, count);
         }
     }
 
